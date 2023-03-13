@@ -1,4 +1,4 @@
-emoji==2.2.0
+emoji==1.7
 matplotlib
 pandas
 seaborn==0.12.2
